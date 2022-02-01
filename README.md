@@ -1,3 +1,3 @@
 # cpsc457
 
-past CPSC 457 Assignments at the University of Calgary
+Past CPSC 457 Assignments at the University of Calgary
